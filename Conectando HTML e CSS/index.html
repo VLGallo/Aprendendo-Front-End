@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Para linkar o CSS no VSCode, digitar link e apertar o "tab" e 
+        depois escrever o nome do arquivo que você quer linkar com o HTML-->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!--Aqui o atributo style, que está dentro da tag <p>, recebe a cor -->
+    <p style="color: cyan"> Esse modo é inline </p>
+
+
+    <!--Aqui é preciso definir uma classe (.texto) dentro da tag <style> e depois chamar essa classe 
+        dentro da tag <p> -->
+    <style>
+        .texto {
+            color: cyan
+        }
+    </style>
+    <p class="texto"> Esse modo é com uso de tag</p>
+
+    <!--Aqui é preciso definir uma classe no arquivo CSS(.texto2), referenciá-la no head, 
+    e depois chamar essa classe dentro da tag <p> -->
+    <p class="texto2"> Esse modo é usando o CSS do arquivo </p>
+
+
+</body>
+</html>
