@@ -49,7 +49,8 @@ Estou utilizando os cursos da plataforma Alura para me aprofundar na linguagem j
 
 
 ✍️ Para documentar todo meu aprendizado estou utilizando o Blog [CSM](https://www.computersciencemaster.com.br/cursos-desenvolvimento-web/): 
-- [Ainda em construção](#)
+- [HTML e CSS - o que são? como funciona?](https://www.computersciencemaster.com.br/html-e-css-o-que-sao-e-como-funciona/)
+- [HTML e CSS - os primeiros passos](https://www.computersciencemaster.com.br/html-e-css-os-primeiros-passos/)
 
 
 # Licença
