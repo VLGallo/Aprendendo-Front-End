@@ -35,6 +35,8 @@ Aqui vou manter meus últimos objetivos alcançados ✔️ e tudo que pretendo a
     -  ✔️ Principais atributos do CSS: font*
     -  ✔️ Como utilizar o flexbox para posicionar elementos
     -  ✔️ Seletores: id, classes, eventos
+    -  ✔️ Como utilizar SVGs como background
+    -  ✔️ Como criar separadores de forma
 - 🎯 Responsividade
     - ⏲️ Como usar media queries
 
