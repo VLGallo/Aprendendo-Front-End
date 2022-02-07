@@ -35,6 +35,8 @@ Aqui vou manter meus últimos objetivos alcançados ✔️ e tudo que pretendo a
     -  ✔️ Principais atributos do CSS: font*
     -  ✔️ Como utilizar o flexbox para posicionar elementos
     -  ✔️ Seletores: id, classes, eventos
+    -  ✔️ Como utilizar SVGs como background
+    -  ✔️ Como criar separadores de forma
 - 🎯 Responsividade
     - ⏲️ Como usar media queries
 
@@ -49,7 +51,8 @@ Estou utilizando os cursos da plataforma Alura para me aprofundar na linguagem j
 
 
 ✍️ Para documentar todo meu aprendizado estou utilizando o Blog [CSM](https://www.computersciencemaster.com.br/cursos-desenvolvimento-web/): 
-- [Ainda em construção](#)
+- [HTML e CSS - o que são? como funciona?](https://www.computersciencemaster.com.br/html-e-css-o-que-sao-e-como-funciona/)
+- [HTML e CSS - os primeiros passos](https://www.computersciencemaster.com.br/html-e-css-os-primeiros-passos/)
 
 
 # Licença
