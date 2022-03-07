@@ -55,6 +55,7 @@ Estou utilizando os cursos da plataforma Alura para me aprofundar na linguagem j
 - [HTML e CSS - os primeiros passos](https://www.computersciencemaster.com.br/html-e-css-os-primeiros-passos/)
 
 
+
 # Licença
 
 Esse repositório está sob licença Apache 2.0. Saiba mais sobre essa licença clicando no link abaixo:
